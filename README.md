@@ -11,7 +11,7 @@ The notebook contains the analysis on a project whose main aim was to identify t
 *  The report can be accessed [here](https://docs.google.com/document/d/1BKmmmOcZPJRYTXlIepPUW-d27mURAVEQhj4TkBNMmxw/edit?usp=sharing)
 
 ## Accessing the tableau dashboard
-*  The dashboard can be accessed [here]()
+*  The dashboard can be accessed [here](https://public.tableau.com/views/NexusGroup/StudentAdaptivityDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ## Installation/ Set Up
 * Use a desktop or laptop, phone or tablet.
