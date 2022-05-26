@@ -8,10 +8,10 @@ The notebook contains the analysis on a project whose main aim was to identify t
 *  Access the colab notebook [here](https://colab.research.google.com/drive/1mqRVdHDIjNAXAjFsWexhwQoGEyc_Ha7T?usp=sharing)
 
 ## Accessing the report
-*  The report can be aaccessed [here](https://docs.google.com/document/d/1BKmmmOcZPJRYTXlIepPUW-d27mURAVEQhj4TkBNMmxw/edit?usp=sharing)
+*  The report can be accessed [here](https://docs.google.com/document/d/1BKmmmOcZPJRYTXlIepPUW-d27mURAVEQhj4TkBNMmxw/edit?usp=sharing)
 
 ## Accessing the tableau dashboard
-*  The report can be aaccessed [here]()
+*  The dashboard can be accessed [here]()
 
 ## Installation/ Set Up
 * Use a desktop or laptop, phone or tablet.
