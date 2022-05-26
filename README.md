@@ -27,4 +27,4 @@ Github account: Sharon-Faith
 
 ### License
 *MIT License*
-Copyright (c) {2022} **Samuel Mutua, Kevin Odhiambo, Christopher Kimani and Sharon Faith**
+Copyright (c) {2022} **Samuel Mutua, Kevin Odhiambo, Christopher Kimani and Sharon Olago**
